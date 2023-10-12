@@ -1,4 +1,7 @@
-### Hi there 👋
+### 이재찬
+
+### 2023 한이음 ICT 공모전 입선 (비정형데이터 비식별처리)
+
 
 <!--
 **leejaehot/leejaehot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
