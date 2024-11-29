@@ -1,8 +1,6 @@
 ### 이재찬
 
-2023 한이음 ICT 공모전 입선 (비정형데이터 비식별처리)
-
-2024 세종대학교 캡스톤 경진대회 장려상 (ChooseCheese 앱)
+세종대학교 지능기전공학부 무인이동체공학과 19
 
 <!--
 **leejaehot/leejaehot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
