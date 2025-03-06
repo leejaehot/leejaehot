@@ -1,21 +1,36 @@
-### 이재찬
-jclee@rcv.sejong.ac.kr 
-Robotics and ComputerVision Lab., Sejong University, (2024.01 ~)
-MS/PhD: Department of Intelligent Mechatronics Engineering, Sejong University, (2025.03 ~)
-BS: School of Intelligent Mechatronics Engineering, Sejong University,  (2019.03 ~ 2025.02)
+<h1 align="center">이재찬 (Jaechan Lee)</h1>
 
+<p align="center">
+  📧 jclee@rcv.sejong.ac.kr <br>
+  🏫 <a href="https://rcv.sejong.ac.kr/">Robotics and Computer Vision Lab</a>, Sejong University (2024.01 ~) <br>
+  🎓 MS/PhD: Department of Intelligent Mechatronics Engineering, Sejong University (2025.03 ~) <br>
+  🎓 BS: School of Intelligent Mechatronics Engineering, Sejong University (2019.03 ~ 2025.02) <br>
+</p>
 
-<!--
-**leejaehot/leejaehot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🏆 About Me
+- 🤖 Studying at Robotics & Computer Vision 🏗️
+- 🏫 B.S. in Sejong University 📚
+- 💡 Research Interests 💭
+    - Robotics
+      - LLM/MLLM Prompting
+      - Robotic Instruction
+      - Manipulator Action Code Policy Generation
+    - Computer Vision
+      - Open Vocabulary Object Detection
+      - Visual Grounding
+      - 3D Gaussian Splatting
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills & Interests
+- **Programming:** Python, Pytorch, ROS2, c, c++
+- **Robotics / Simulator:** Isaac Sim, MoveIt, RLBench, PyBullet
+- **Tools & Platforms:** Docker, Git, NVIDIA Jetson (Orin Nano)
+
+## 📫 Contact & Links
+- 📩 Personal Email: 1217cks@naver.com
+- 🔗 Website: *Not Yet*
+- 📝 Google Scholar: *Not Yet*
+- 🏛️ Sejong Robotics and Computer Vision Lab: [rcv.sejong.ac.kr](https://www.rcv.sejong.ac.kr/home)
+
+---
