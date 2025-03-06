@@ -1,6 +1,9 @@
 ### 이재찬
+jclee@rcv.sejong.ac.kr 
+Robotics and ComputerVision Lab., Sejong University, (2024.01 ~)
+MS/PhD: Department of Intelligent Mechatronics Engineering, Sejong University, (2025.03 ~)
+BS: School of Intelligent Mechatronics Engineering, Sejong University,  (2019.03 ~ 2025.02)
 
-세종대학교 지능기전공학부 무인이동체공학과 19
 
 <!--
 **leejaehot/leejaehot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
