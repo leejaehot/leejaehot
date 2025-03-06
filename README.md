@@ -24,6 +24,7 @@
 
 ## 🔧 Skills & Interests
 - **Programming:** Python, Pytorch, ROS2, c, c++
+- **OS exeperience:** Mac OS, Linux(Ubuntu), Windows
 - **Robotics / Simulator:** Isaac Sim, MoveIt, RLBench, PyBullet
 - **Tools & Platforms:** Docker, Git, NVIDIA Jetson (Orin Nano)
 
