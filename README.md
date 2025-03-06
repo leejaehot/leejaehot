@@ -11,7 +11,6 @@
 
 ## 🏆 About Me
 - 🤖 Currently studying Robotics & Computer Vision 🏗️
-- 🏫 B.S. in Sejong University 📚
 - 💡 Research Interests 💭
     - Robotics
       - LLM/MLLM Prompting
