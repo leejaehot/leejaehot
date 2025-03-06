@@ -31,6 +31,5 @@
 - 📩 Personal Email: 1217cks@naver.com
 - 🔗 Website: *Not Yet*
 - 📝 Google Scholar: *Not Yet*
-- 🏛️ Sejong Robotics and Computer Vision Lab: [rcv.sejong.ac.kr](https://www.rcv.sejong.ac.kr/home)
 
 ---
