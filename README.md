@@ -14,12 +14,11 @@
 - 💡 Research Interests 💭
     - Robotics
       - LLM/MLLM Prompting
-      - Robotic Instruction
       - Manipulator Action Code Policy Generation
     - Computer Vision
       - Open Vocabulary Object Detection
       - Visual Grounding
-      - 3D Gaussian Splatting
+      - 3D GS & Affordance
 
 ## 🔧 Skills & Interests
 - **Programming:** Python, Pytorch, ROS2, c, c++
