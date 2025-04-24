@@ -15,19 +15,22 @@
     - Robotics
       - LLM/MLLM Prompting
       - Manipulator Action Code Policy Generation
+      - Vision-based Deep Reinforcement Learning
+      - Vision-Language-Action Model
     - Computer Vision
       - Open Vocabulary Object Detection
       - Visual Grounding
-      - 3D GS & Affordance
+      - 3D GS
+      - Affordance Recognition
 
 ## 🔧 Skills & Interests
 - **Programming:** Python, Pytorch, ROS2, c, c++
 - **OS exeperience:** Mac OS, Linux(Ubuntu), Windows
-- **Robotics / Simulator:** Isaac Sim, MoveIt, RLBench, PyBullet
-- **Tools & Platforms:** Docker, Git, NVIDIA Jetson (Orin Nano)
+- **Robotics / Simulator:** Isaac Sim, Coppeliasim, PyBullet
+- **Tools & Platforms:** Docker, Git, NVIDIA Jetson (Orin Nano, Xavier)
 
 ## 📫 Contact & Links
-- 📩 Personal Email: 1217cks@naver.com
+- 📩 Personal Email: jclee@rcv.sejong.ac.kr
 - 🔗 Website: *Not Yet*
 - 📝 Google Scholar: *Not Yet*
 
