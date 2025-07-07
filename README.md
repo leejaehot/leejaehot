@@ -13,10 +13,9 @@
 - 🤖 Currently studying Robotics & Computer Vision 🏗️
 - 💡 Research Interests 💭
     - Robotics
-      - LLM/MLLM Prompting
+      - Sub-task Decomposition
       - Manipulator Action Code Policy Generation
-      - Vision-based Deep Reinforcement Learning
-      - Vision-Language-Action Model
+      - VA/VLA Model
     - Computer Vision
       - Open Vocabulary Object Detection
       - Visual Grounding
