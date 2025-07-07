@@ -20,7 +20,6 @@
     - Computer Vision
       - Open Vocabulary Object Detection
       - Visual Grounding
-      - 3D GS
       - Affordance Recognition
 
 ## 🔧 Skills & Interests
